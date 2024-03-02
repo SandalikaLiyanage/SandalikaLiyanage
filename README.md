@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://static.vecteezy.com/system/resources/previews/010/837/858/non_2x/happy-halloween-banner-or-party-invitation-with-cute-ghosts-in-different-costumes-kawaii-spooky-character-for-children-flat-illustration-vector.jpg)
 <h1 align="center">Hi 👋, I'm Sandalika Liyanage</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
