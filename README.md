@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandalikaliyanage&label=Profile%20views&color=0e75b6&style=flat" alt="sandalikaliyanage" /> </p>
 
-- 🔭 I’m currently working on [E-commerce system using REST APIs](https://github.com/SupuniAbeysinghe/Software-Architecture-Group-Project.git)
+- 🔭 I’m currently working on [MERN STACK project](https://github.com/SupuniAbeysinghe/Software-Architecture-Group-Project.git)
 
 - 🌱 I’m currently learning **React JS, Spring Boot.**
 
